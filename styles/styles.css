@@ -154,7 +154,7 @@ main h1 {
 
 /* Media queries to change layout at 768px breakpoint */
 
-@media (max-width: 48rem) {
+@media (max-width: 75rem) {
   #main-header nav {
     display: none;
   }
